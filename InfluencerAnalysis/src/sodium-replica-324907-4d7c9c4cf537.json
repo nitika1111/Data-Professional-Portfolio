@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sodium-replica-324907",
+  "private_key_id": "4d7c9c4cf537061e5685bf98e761f46ff1d8bbcd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDADqhviTVrK/H5\ngnrafN4I45pRF2DZfolXnWBFKiO4g2oGsGKNJbLZUc2zU5ipFDYiHmllhxNZJGRy\nSdNLngT37vd6S0Ui+bDy7kUB+6w/t+F7hEViNwTI3i72QtVn5UquCJ/sgG01R/6M\ncL1HChdKhxhRxfhjk5Bs8xWodyC2tYb+ypsi9RZORoFd/xKnAt/NwAIbel3Bflm8\nDIOhoWQ15l5CVxIDogl7vhsrvtPqMQVDY03aDNeEEd8Qbn5Kst9CCygqoE9aQYq+\nbRPx6QcSGt5zkcczTw0DVdc4SXro9Pp9g3xlu2SVigEiXlRq6mBgxzlCR/7YPN3w\nMIQpDuwVAgMBAAECggEAGvRzs2PAeZArX+duMqf/yaOYDvWHBD98Ky3NSyfE56qa\nAOJUkpbN6S5P/nEnJePOTS+Tf0pb7tDqwBeYbi55aArD9QgHZgdBTHcgfEzEOhUm\nsl04F7a9FywHz0xGA1TtDEvtlhXYPfgiw7c2+XdzGWSohyGP4Pne9UuQqJo/nyTQ\nk4kSkLg00yMV835PYxZ4r5R/Yy2UCceFO+/c4/VdltGnN1yCEaXrLG53DcXbbyOB\nDz8IUTRdCW740B9qzKgxXzG8hygnO7DKoYzAXRFssyfv08RGEwVeaADGWdKu1E0t\n7/7xlfklDJnGw2povBX/9PicHlY+0GaFrMNBkanywQKBgQDy5E/ESrs665FyTjP1\nGxUA+hpojUBQi5b4ZeRs6ZT/OO3etUV+gQ69qX+fgb7HyOxjqGGk/zVlATabYGFH\nNzMDxcMVR5rklllrRRSfhn9qpEN6TeJfmTXnGkPkr6NnkVzVnxDEIvfd2usmDtw5\nnMMWsBFtgiLh+T45rjobOB7CHQKBgQDKbAmrxCpW3gGRIgtFlgIjdZjTZlgh0wAt\no7jZNwLxs8sTQXv3bE9c5oQT5jQdlLCPDGRdT9Q2Sb6lZ1kBFGsJwnF+6AMRe+6g\ncEoYhdvlccab4BoeFs086tGIswlASp/RrH4kgJYhplX0CUn9rdkFzvnJjaW4i8uK\nK8hBSFgwWQKBgQDSpej73qf0GHqifGoZJyyXFVCz3dSqRfVfZdauEgGzOqcpH2Ku\nrLShDg/twLM5RuqkH1LXqrGe8GdwZyzWe2vV2Lwwh1Iw7qeMHXQeSaHVVbJjrool\nyJTz4VaCTUTUvD+b0IDU6VK36HVJI1gg6vBSi84Bf/xKqEMr+QrRsmESjQKBgQCY\nTvJ37AJvmlxTd+pDUbwKMlHrvvZRfRKFRMuxpVLxyvbiZkOAyF5u6IQ49N4B4/91\noz1heM+UiaiJjFnMFjD0BvqfIrQsU7QZxGP8T7xFyHZIkzcTrNSBIa7HzO8JER1w\nBvpjPN26NA44sUSbPFQvqq0Imyw2z/k23fqwJF83AQKBgQCKMGw5EnXQ+aUoCGHx\nLrzEBP1MSLnKRYp0c9yjm6J2koC67OdDFCHKosCqOrlSTgdX/ef5fsAGy6ryasLd\nCgtzk/m4BfSRgr9597IfbOgisEr177kkp18QN3cpw6jVYnpHmCbZUcdUhT2DvoB+\n+C94YK9AzVK95r7QuX4K+sPWnQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "natural-lang-sa@sodium-replica-324907.iam.gserviceaccount.com",
+  "client_id": "105333192920622495915",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/natural-lang-sa%40sodium-replica-324907.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
