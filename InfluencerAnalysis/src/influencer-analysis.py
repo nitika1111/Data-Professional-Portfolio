@@ -10,7 +10,7 @@ youtube_api_key = 'AIzaSyBAwxRPvS-LS2AkNM6J0imagMPT1f5MQjA'
 # Create a YouTube API client
 youtube = build('youtube', 'v3', developerKey=youtube_api_key)
 
-service_account_key_path = 'D:\DataScience-GCP\Projects\InfluencerAnalysis\src\sodium-replica-324907-1de8404a91e9.json'
+service_account_key_path = '--'
 
 
 def get_channel_info(channel_name):
@@ -58,7 +58,7 @@ def analyze_sentiment(comments):
 # Example usage:
 channel_name_input = input("Enter the channel name: ")
 channel_info = get_channel_info(channel_name_input)
-language_api_key = 'AIzaSyCc4MYWU9c6miGPQE9YLqgfhDpKjxESkgw'  # Replace with your Natural Language API key
+language_api_key = '--'  # Replace with your Natural Language API key
 
 if channel_info:
     print("Channel Name:", channel_info['snippet']['title'])
